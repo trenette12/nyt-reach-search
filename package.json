@@ -1,0 +1,19 @@
+{
+  "name": "nyt-reach-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trenette12/nyt-reach-search.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trenette12/nyt-reach-search/issues"
+  },
+  "homepage": "https://github.com/trenette12/nyt-reach-search#readme"
+}
