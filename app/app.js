@@ -1,5 +1,7 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import Main from './components/main.js';
+var React = require("react");
+var ReactDOM = require("react-dom");
+// var Main = require("./components/Main");
+var routes = require("./config/routes")
 
-// ReactDOM.render(<Main />, document.getElementById("app"));
+ReactDOM.render(routes, document.getElementById("app"));
+
