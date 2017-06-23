@@ -18,7 +18,7 @@ module.exports = (
     <Route path="/" component={Main}>
       <Route path="Search" component={Search} />
         <Route path="Results" component={Results} />
-        <IndexRoute component={Search} />
+        <IndexRoute component={Main} />
         </Route>
   </BrowseRouter>
 );

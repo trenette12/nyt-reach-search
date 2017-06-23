@@ -1,5 +1,5 @@
 //Require Mongoose to create the Article Schema and Model
-import mongoose from 'mongoose';
+var mongoose = require("mongoose");
 
 var Schema = mongoose.Schema;
 
